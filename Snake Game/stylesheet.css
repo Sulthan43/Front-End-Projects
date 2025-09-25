@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: burlywood;
+    text-align: center;
+}
+h2{
+    color: rgb(23, 99, 220);
+}
+#msg{
+    margin-top: 0.5em;
+    margin-bottom: 2em;
+}
+#gameboard{
+    border: 3px solid;
+}
+#score{
+    margin-top: 10px;
+    font-size: 1.2em;
+}
